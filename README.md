@@ -7,4 +7,4 @@
  Estes modelos serão realizados utilizando uma espécie arbórea de ocorrência no bioma Amazônico (Laetia corymbulosa)
  
  A terceira parte será utilizado o script do pacote que será empregado no projeto ForestFisher.
- Será empregado uma espécie de peixe da bacia amazônica (Colossoma macropomum)
+ Será analisado uma espécie de peixe da bacia amazônica (Colossoma macropomum)
