@@ -111,7 +111,6 @@ dev.off()
 
 chp <- future - pres
 plot(chp, col=c("red", "gray", "blue","green")) #outro tipo de mapa
-#raster4<-writeRaster(chp, "585-41-4.tif")
 unique(chp)
 
 #change_585_81100_t[] <- ifelse(pres[] == future_585_81100_t[],0,
