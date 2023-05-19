@@ -139,7 +139,7 @@ plot(change_245_4160,
      legend = F,
      col = c("red","darkgray", "blue", "green"), 
      axes = TRUE,
-     main = "SSP585 2081-2100")
+     main = "SSP245 2041-2060")
 
 legend("bottomright",
        legend = c("Retraction", "unsuitable", "Stable", "Expansion"),
